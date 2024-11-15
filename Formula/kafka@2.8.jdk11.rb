@@ -1,4 +1,4 @@
-class KafkaAT28JDK11 < Formula
+class KafkaAT28Jdk11 < Formula
   desc "Open-source distributed event streaming platform"
   homepage "https://kafka.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=kafka/2.8.1/kafka_2.13-2.8.1.tgz"
