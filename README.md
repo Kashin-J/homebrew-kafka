@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install mdogan/kafka/<formula>`
+`brew install kashin-j/kafka/<formula>`
 
-Or `brew tap mdogan/kafka` and then `brew install <formula>`.
+Or `brew tap kashin-j/kafka` and then `brew install <formula>`.
 
 ## Documentation
 
